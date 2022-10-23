@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/landing-page/static/js/main.b630d727.js",
+    "main.js": "/landing-page/static/js/main.7cefdc06.js",
     "static/media/ecoseller.svg": "/landing-page/static/media/ecoseller.59db816059cf18fce0c7862b0b1efacf.svg",
     "static/media/github.svg": "/landing-page/static/media/github.07abef4ed2f7c8801873062976a766ca.svg",
     "index.html": "/landing-page/index.html",
-    "main.b630d727.js.map": "/landing-page/static/js/main.b630d727.js.map"
+    "main.7cefdc06.js.map": "/landing-page/static/js/main.7cefdc06.js.map"
   },
   "entrypoints": [
-    "static/js/main.b630d727.js"
+    "static/js/main.7cefdc06.js"
   ]
 }
